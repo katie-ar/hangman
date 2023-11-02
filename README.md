@@ -9,7 +9,4 @@ What happens when you win a round:
 ![A screenshot showing a round being won and a replay button](https://github.com/katie-ar/hangman/assets/148056793/a4d5987c-e9d5-42f5-b24c-72d3213fa9a6)
 
 What happens when you lose a round:
-![A screenshot showing a round being lost and a replay button](https://github.com/katie-ar/hangman/assets/148056793/652b3dc0-00a4-47f2-9e68-6d5d18e9aedf)
-
-
-
+![A screenshot showing a round being lost and a replay button](https://github.com/katie-ar/hangman/assets/148056793/28e0c116-a82f-48d5-ba5b-1564af317a92)
