@@ -3,7 +3,7 @@ import random
 
 pygame.init()
 
-# the display
+# creates the game window
 win = pygame.display.set_mode((800, 500))
 pygame.display.set_caption("Hangman")
 
